@@ -1,0 +1,1 @@
+This is an adaptation of a maze from another project to a wolfestein3d format. Everthing but the graphics has been implemented, but making the leap from 2D to 3D was much more difficult than expected. I might come back and finish this at some point.
